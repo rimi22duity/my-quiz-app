@@ -1,0 +1,52 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+
+# Virtual environment directories
+venv/
+ENV/
+env/
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# Test results
+*.coverage
+.coverage.*
+nosetests.xml
+test-*.xml
+tox.ini
+*.log
+
+# Dependency directories
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Python Wheel
+*.whl
+
+# PyInstaller
+*.spec
+
+# Pyre type checker
+.pyre/

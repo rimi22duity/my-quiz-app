@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the maximum possible length of an identifier?",
+        "options": ["A. 16", "B. 32", "C. 64", "D. None of these above"],
+        "answer": "D"
+    },
+    {
+        "question": "Who developed the Python language?",
+        "options": ["A. Zim Den", "B. Guido van Rossum", "C. Niene Stom", "D. Wick van Rossum"],
+        "answer": "B"
+    },
+    {
+        "question": "In which year was the Python language developed?",
+        "options": ["A. 1995", "B. 1972", "C. 1981", "D. 1989"],
+        "answer": "D"
+    },
+    {
+        "question": "In which language is Python written?",
+        "options": ["A. English", "B. PHP", "C. C", "D. All of the above"],
+        "answer": "B"
+    }
+]
