@@ -2,8 +2,8 @@
 *.pyc
 *.pyo
 *.pyd
-/src/__pycache__/*
-/test/__pycache__/*
+**/__pycache__/
+**/__pycache__/
 
 # Distribution / packaging
 *.egg
